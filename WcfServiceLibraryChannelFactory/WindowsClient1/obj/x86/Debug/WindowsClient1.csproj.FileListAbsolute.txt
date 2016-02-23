@@ -1,0 +1,12 @@
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\bin\Debug\WindowsClient1.exe.config
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\bin\Debug\WindowsClient1.exe
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\bin\Debug\WindowsClient1.pdb
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.WinServiceClient.resources
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.Properties.Resources.resources
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.csproj.GenerateResource.Cache
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.exe
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.pdb
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\bin\Debug\WcfServiceLibraryChannelFactory.dll
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\bin\Debug\WcfServiceLibraryChannelFactory.pdb
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.csprojResolveAssemblyReference.cache
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\WindowsClient1\obj\x86\Debug\WindowsClient1.exe.licenses

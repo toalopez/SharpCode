@@ -1,0 +1,2 @@
+ new BasicHttpBinding(),
+                    "http://localhost:8732/WcfServiceLibraryChannelFactory/CustomersService");

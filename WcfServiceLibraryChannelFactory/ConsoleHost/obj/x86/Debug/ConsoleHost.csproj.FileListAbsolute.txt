@@ -1,0 +1,7 @@
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\bin\Debug\ConsoleHost.exe
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\bin\Debug\ConsoleHost.pdb
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\bin\Debug\WcfServiceLibraryChannelFactory.dll
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\bin\Debug\WcfServiceLibraryChannelFactory.pdb
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\obj\x86\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\obj\x86\Debug\ConsoleHost.exe
+D:\SoftwareCode\Csharp\WCFChannelFactoryLibrary\WcfServiceLibraryChannelFactory\ConsoleHost\obj\x86\Debug\ConsoleHost.pdb
